@@ -1,8 +1,9 @@
 {
     "name": "Gamersclub no Ads Match ",
+    "author": "Guilherme Mendes Aquino - github.com/aquinogui",
     "version": "0.0.2",
     "manifest_version": 2,
-    "description": "Extensão para Google Chrome que remove o ads antes das partidas para quem não é membro premium..",
+    "description": "Extensão para Google Chrome que remove o ads antes das partidas para quem não é membro premium, e também altera o alarme de votação para outra.",
     "icons" : {
       "16" : "icon.png",
       "48" : "icon.png",
