@@ -1,0 +1,15 @@
+{
+    "name": "Gamersclub no Ads Match ",
+    "version": "0.0.2",
+    "manifest_version": 2,
+    "description": "Extensão para Google Chrome que remove o ads antes das partidas para quem não é membro premium..",
+    "icons" : {
+      "16" : "icon.png",
+      "48" : "icon.png",
+      "128" : "icon.png"
+    },
+    "content_scripts": [{
+      "matches": [ "*://gamersclub.com.br/*" ],
+      "js": [ "script.js" ]
+    }]
+  }
