@@ -1,4 +1,5 @@
 console.log("Gamersclub no Ads Match Ativo")
+console.log("Running...")
 
 var tag = document.createElement('script');
 
@@ -21,6 +22,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
       player.playVideo();
       // Mute!
       console.log("Player Mutado")
+      alert("Video desativado")
       player.mute();
   }
 

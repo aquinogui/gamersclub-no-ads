@@ -3,7 +3,7 @@
     "author": "Guilherme Mendes Aquino - github.com/aquinogui",
     "version": "0.0.2",
     "manifest_version": 2,
-    "description": "Extensão para Google Chrome que remove o ads antes das partidas para quem não é membro premium, e também altera o alarme de votação para outra.",
+    "description": "Extensão para Google Chrome que remove o ads antes das partidas para quem não é membro premium, e altera o som do pré ready para musica.",
     "icons" : {
       "16" : "icon.png",
       "48" : "icon.png",
